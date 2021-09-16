@@ -1,0 +1,15 @@
+npm 載入套件 dotenv express helmet mongoose morgan bcrypt
+
+nodemon index.js
+
+(index.js)引用套件 然後規劃路徑 新增資料夾route－auth.js、user.js
+
+.env放入資料庫連結
+
+  
+  
+  
+  
+  
+ 
+  
